@@ -5,3 +5,6 @@
 #export SNOWFLAKE_CONNECTIONS_DEFAULT_PASSWORD=""
 
 default_connection_name = "default"
+
+
+
